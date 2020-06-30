@@ -1,0 +1,1 @@
+Data obtained on 5.12.2019 10:02 from http://snap.stanford.edu/data/amazon0505.html
